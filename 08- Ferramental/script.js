@@ -219,7 +219,7 @@ const flashcards = [
   },
   {
     question:
-      "<img src='../imagens/elevador-eletrico.png' alt='elevador-eletrico>",
+      "<img src='../imagens/elevador-eletrico.png' alt='elevador-eletrico'>",
     answer: "elevador eletrico",
   },
   {
