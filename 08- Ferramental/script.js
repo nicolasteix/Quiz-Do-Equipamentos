@@ -541,7 +541,7 @@ const loadQuestion = () => {
 // Função para atualizar os botões de navegação
 const updateButtons = () => {
   previousButton.disabled = currentQuestionIndex === 0;
-  nextButton.disabled = false; //isso oculta e desoculta o botao de proximo e anterior
+  nextButton.disabled = true; //isso oculta e desoculta o botao de proximo e anterior
 };
 
 // Função para verificar a resposta fornecida pelo usuário
