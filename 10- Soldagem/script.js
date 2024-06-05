@@ -55,6 +55,46 @@ const flashcards = [
         question: "Qual é a principal diferença entre soldagem por fusão e soldagem por pressão?",
         answer: "Soldagem por fusão envolve a fusão dos metais, enquanto soldagem por pressão envolve a união das peças na fase sólida"
     },
+    {
+        question: "Qual é o dispositivo especializado necessário para liberar a corrente utilizada na soldagem elétrica?",
+        answer: "Dínamo"
+    },
+    {
+        question: "Qual é a função do revestimento dos eletrodos na soldagem?",
+        answer: "Formar a proteção gasosa e escória, incluir elementos químicos na soldagem, e aumentar a resistência à corrosão e atrito"
+    },
+    {
+        question: "Quais são as partes componentes do equipamento de solda elétrica?",
+        answer: "Cabo negativo com garra, martelo picador, porta eletrodo, escova de aço, estufa de eletrodos, equipamento Bambozzi, e eletrodo"
+    },
+    {
+        question: "Quais são os cuidados necessários ao instalar um equipamento de solda elétrica?",
+        answer: "o	Instalar em local livre de pó, atmosferas corrosivas, e excesso de umidade; assegurar o aterramento"
+    },
+    {
+        question: "Para quais aplicações é mais indicado o eletrodo E6013?",
+        answer: "Soldagens simples, metalons, serralherias, equipamentos agrícolas, chapas e tubulações"
+    },
+    {
+        question: "Quais são as principais características do eletrodo E6013?",
+        answer: "Alto percentual de dióxido de titânio no revestimento, pode ser utilizado em todas as posições"
+    },
+    {
+        question: "Para quais aplicações é mais indicado o eletrodo E7018?",
+        answer: "Estruturas metálicas que exigem grande resistência à ruptura"
+    },
+    {
+        question: "Quais são as principais características do eletrodo E7018?",
+        answer: "Alta resistência à ruptura"
+    },
+    {
+        question: "Quais normas de segurança o soldador deve seguir durante as operações de soldagem?",
+        answer: "Usar EPIs, usar biombos para proteger as pessoas ao redor, evitar soldar em locais com materiais inflamáveis ou explosivos"
+    },
+    {
+        question: "O que deve ser verificado para cada operação de solda?",
+        answer: "Amperagem e diâmetro do eletrodo"
+    },
 ];
 // Função para embaralhar um array
 function shuffleArray(array) {
