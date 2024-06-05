@@ -5,7 +5,7 @@ const flashcards = [
     },
     {
         question: "Qual as regras básicas de segurança na oficina?",
-        answer: "Atentar para as Condições e Emprego do local, Condições e Emprego do Material, Utilização das Máquinas e Cuidados e Ação de pessoal"
+        answer: "Atentar para as Condições e Emprego do local, do Material, Utilização das Máquinas e Cuidados e Ação de pessoal"
     },
     {
         question: "Qual a primeira regra básica de segurança na oficina?",
