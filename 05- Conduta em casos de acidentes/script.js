@@ -36,7 +36,16 @@ const flashcards = [
         answer: "Processo semelhante ao militar, mas com inclusão da Ficha de Comunicação de Acidente de Trabalho (FCAT)."
     },
 ];
+// Função para embaralhar um array
+function shuffleArray(array) {
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]]; // Troca os elementos
+  }
+}
 
+// Embaralha o array de flashcards
+shuffleArray(flashcards);
 const flashcardsContainer = document.getElementById('flashcards');
 const questionElement = document.getElementById('question-text');
 const answerElement = document.getElementById('answer');
