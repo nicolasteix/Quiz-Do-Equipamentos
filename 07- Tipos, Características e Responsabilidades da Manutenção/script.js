@@ -1,5 +1,10 @@
 const flashcards = [
     {
+        question:
+          "<img src='../imagens/tabela mcc.png' alt='tabela mcc.png'<br><br> <p>complete os dados da tabela mcc</p>",
+        answer: "Função, Preservar a Função, Obrigatório e sistematica e consequencia das falhas",
+      },
+    {
         question: "O que é manutenção?",
         answer: "É o conjunto de ações necessárias para manter ou restaurar um equipamento em uma condição específica de operação"
     },
