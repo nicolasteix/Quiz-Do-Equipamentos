@@ -260,7 +260,7 @@ const flashcards = [
   },
   {
     question:
-      "<img src='../imagens/imagens/junta-articulada.png' alt='junta-articulada'>",
+      "<img src='../imagens/junta-articulada.png' alt='junta-articulada'>",
     answer: "Junta Articulada",
   },
   {
