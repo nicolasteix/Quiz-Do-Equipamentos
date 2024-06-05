@@ -56,7 +56,7 @@ const flashcards = [
   },
   {
     question: "<img src='../imagens/arco-serra.png' alt='Arco-Serra'>",
-    answer: "Alicate Bomba D'água",
+    answer: "Arco-serra",
   },
   {
     question:
