@@ -40,6 +40,47 @@ const flashcards = [
         question: "O que diferencia uma liga metálica não-ferrosa de uma ferrosa?",
         answer: "elas não contêm ferro como principal componente e são mais resistentes à corrosão"
     },
+    {
+        question: "O que é tratamento térmico?",
+        answer: "Conjunto de operações de aquecimento e resfriamento sob condições controladas de temperatura, tempo, atmosfera e velocidade de esfriamento"
+    },
+    {
+        question: "Quais são os principais objetivos do tratamento térmico?",
+        answer: "Aumentar ou diminuir a dureza, aumentar a resistência, melhorar resistência ao desgaste, à corrosão e ao calor"
+    },
+    {
+        question: "Qual a diferença entre tratamento térmico calórico e termoquímico?",
+        answer: "O calórico envolve apenas calor e resfriamento, enquanto o termoquímico inclui a adição de elementos químicos na superfície do metal"
+    },
+    {
+        question: "O que é têmpera e qual seu objetivo?",
+        answer: "Processo de aquecimento seguido de resfriamento brusco, usado para obter uma microestrutura com alta dureza e resistência mecânica."
+    },
+    {
+        question: "Qual o objetivo do revenimento após a têmpera?",
+        answer: "Reduzir tensões internas, ajustar a dureza e obter valores adequados de resistência mecânica"
+    },
+    {
+        question: "Como é realizada a têmpera superficial?",
+        answer: "Somente na superfície da peça, utilizando indução eletromagnética"
+    },
+    {
+        question: "Qual é o processo de recozimento e seu objetivo?",
+        answer: "é o aquecimento seguido de resfriamento lento, para melhorar a ductilidade, aliviar tensões internas e refinar a estrutura do grão"
+    },
+    {
+        question: "O que é nitretação e qual sua vantagem?",
+        answer: "Introdução de nitrogênio na superfície do aço a temperaturas de 500 a 570°C, produzindo menor distorção e menor tendência a causar trincas"
+    },
+    {
+        question: "Qual é o processo de carbonitretação e sua aplicação?",
+        answer: "Introdução de carbono e nitrogênio na superfície do aço, utilizado para peças pequenas que requerem resistência à fadiga e dureza superficial elevadas"
+    },
+    {
+        question: "Quais são as aplicações típicas do aço tratado termicamente em engenharia?",
+        answer: "Lâminas e bordas cortantes de tratores, dentes de escavadeiras, pistões hidráulicos e pinos"
+    },
+
 ];
 // Função para embaralhar um array
 function shuffleArray(array) {
