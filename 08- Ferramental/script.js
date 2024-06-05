@@ -450,7 +450,7 @@ const flashcards = [
   },
   {
     question:
-      "<img src='../imagens/sacador-de-porca.png.png' alt='sacador-de-porca'>",
+      "<img src='../imagens/sacador-de-porca.png' alt='sacador-de-porca'>",
     answer: "Sacador de porca",
   },
   {
