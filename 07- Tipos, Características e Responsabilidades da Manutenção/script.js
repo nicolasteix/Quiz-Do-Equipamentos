@@ -50,8 +50,8 @@ const flashcards = [
     
     },
     {
-        question: "O que é manutenção preventiva e quais são seus principais objetivos?",
-        answer: "é um conjunto de atividades planejadas realizadas para reduzir ou evitar falhas em equipamentos, seguindo um plano previamente elaborado com base em intervalos definidos de tempo. Seus principais objetivos são Reduzir custos, Aumentar a qualidade do produto, Aumentar a produtividade, Reduzir impactos ao meio ambiente., Diminuir acidentes de trabalho e Aumentar a vida útil dos equipamentos"
+        question: "O que é manutenção preventiva?",
+        answer: "é um conjunto de atividades planejadas realizadas para reduzir ou evitar falhas em equipamentos, seguindo um plano previamente elaborado com base em intervalos definidos de tempo"
     },
     {
         question: "Qual técnica de manutenção preditiva utiliza a medição de temperatura para formar imagens térmicas?",
