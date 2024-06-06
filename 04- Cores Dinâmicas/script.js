@@ -25,11 +25,11 @@ const flashcards = [
     },
     {
         question: "Para que serve a cor verde no contexto das cores dinâmicas?",
-        answer: "Caracterizar segurança, como em equipamentos de primeiros socorros"
+        answer: "Indicar segurança. É utilizada na localização da caixa de equipamento de primeiros socorros"
     },
     {
         question: "O que a cor azul indica em ambientes de trabalho?",
-        answer: "Ação obrigatória, como o uso de EPI"
+        answer: "Indica uma ação obrigatória. É utilizada para determinar o uso de EPI"
     },
     {
         question: "Qual é a cor empregada para sinalizar riscos de radiação eletromagnética e partículas nucleares?",
@@ -37,7 +37,7 @@ const flashcards = [
     },
     {
         question: "Onde é aplicada a cor branca segundo as normas de segurança?",
-        answer: "Na demarcação de passadiços, passarelas e corredores"
+        answer: "Na demarcação de passarelas e corredores"
     },
     {
         question: "Onde é aplicada a cor Preto segundo as normas de segurança?",
