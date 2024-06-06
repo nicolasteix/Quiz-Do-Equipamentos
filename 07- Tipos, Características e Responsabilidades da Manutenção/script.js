@@ -21,20 +21,12 @@ const flashcards = [
         answer: "Redução de custos, aumento da produtividade e vida útil dos equipamentos, redução de acidentes e impactos ambientais."
     },
     {
-        question: "Qual é o primeiro passo para elaborar um plano de manutenção preventiva?",
-        answer: "Relacionar os ativos da OM que estão dentro do seu período de vida útil"
-    },
-    {
         question: "O que é manutenção preditiva?",
         answer: "Manutenção que monitora os equipamentos em operação para prever falhas e realizar intervenções antes que ocorram"
     },
     {
         question: "Quais são os métodos de inspeção preditivos mais comuns?",
         answer: "Inspeções sensitivas, análise de vibrações, análise termográfica e análise por ultrassom"
-    },
-    {
-        question: "O que são analisadores de vibração?",
-        answer: "Equipamentos que detectam falhas mecânicas por meio de medições eletrônicas de vibrações"
     },
     {
         question: "Qual é o objetivo da Manutenção Centrada em Confiabilidade (MCC)?",
@@ -72,11 +64,11 @@ const flashcards = [
    
     {
         question: "Explique a diferença entre manutenção corretiva planejada e emergencial.",
-        answer: "A manutenção corretiva planejada é realizada para corrigir desempenho menor que o esperado, com base em acompanhamento preditivo, permitindo estender a operação até o momento de ocorrência da falha, Já a manutenção corretiva emergencial é a correção de falhas que ocorrem de maneira inesperada e requerem intervenção imediata, resultando em custos mais altos e prejuízos operacionais."
+        answer: "A manutenção corretiva planejada é realizada para corrigir desempenho menor que o esperado, com base em acompanhamento preditivo, a manutenção corretiva emergencial é a correção de falhas que ocorrem de maneira inesperada"
     },
     {
         question: "Quais são as vantagens e desvantagens da manutenção preventiva por tempo?",
-        answer: "restauração e inspeção de componentes, garantia das funções do equipamento durante a produção, melhor ritmo de trabalho e menores chances de erros. As desvantagens incluem a possibilidade de substituição de componentes ainda em condições de uso e a ocorrência de falhas entre os períodos planejados"
+        answer: "garantia das funções do equipamento durante a produção, melhor ritmo de trabalho e menores chances de erros. As desvantagens incluem a possibilidade de substituição de componentes ainda em condições de uso e a ocorrência de falhas entre os períodos planejados"
     },
 ];
 // Função para embaralhar um array
