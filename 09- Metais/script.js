@@ -6,18 +6,10 @@ const flashcards = [
       },
     {
         question: "Quais são os principais elementos do aço?",
-        answer: "Ferro, carbono, silício, enxofre e fósforo."
+        answer: "Ferro e carbono"
     },
     {
-        question: "Quais são as aplicações típicas do aço de baixo teor de carbono?",
-        answer: "Indústria automobilística e formas estruturais"
-    },
-    {
-        question: "Quais as propriedades do aço de alto teor de carbono?",
-        answer: "Alta dureza, resistência ao desgaste, menor ductilidade"
-    },
-    {
-        question: "Em que é utilizado o aluminio alumínio?",
+        question: "Em que é utilizado o aluminio?",
         answer: "bombas hidráulicas, engrenagens, buchas"
     },
     {
@@ -27,10 +19,6 @@ const flashcards = [
     {
         question: "Quais são as principais aplicações do latão?",
         answer: "Produção de armas, munições e parafusos"
-    },
-    {
-        question: "Quais elementos compõem o ferro fundido?",
-        answer: "Ferro, carbono e silício"
     },
     {
         question: "Quais são os usos comuns do ferro fundido em viaturas e equipamentos?",
@@ -45,40 +33,40 @@ const flashcards = [
         answer: "Conjunto de operações de aquecimento e resfriamento sob condições controladas de temperatura, tempo, atmosfera e velocidade de esfriamento"
     },
     {
-        question: "Quais são os principais objetivos do tratamento térmico?",
-        answer: "Aumentar ou diminuir a dureza, aumentar a resistência, melhorar resistência ao desgaste, à corrosão e ao calor"
-    },
-    {
         question: "Qual a diferença entre tratamento térmico calórico e termoquímico?",
-        answer: "O calórico envolve apenas calor e resfriamento, enquanto o termoquímico inclui a adição de elementos químicos na superfície do metal"
+        answer: "o termoquímico inclui a adição de elementos químicos na superfície do metal"
     },
     {
         question: "O que é têmpera e qual seu objetivo?",
-        answer: "Processo de aquecimento seguido de resfriamento brusco, usado para obter uma microestrutura com alta dureza e resistência mecânica."
+        answer: "Processo de aquecimento seguido de resfriamento brusco"
     },
     {
         question: "Qual o objetivo do revenimento após a têmpera?",
         answer: "Reduzir tensões internas, ajustar a dureza e obter valores adequados de resistência mecânica"
     },
     {
-        question: "Como é realizada a têmpera superficial?",
-        answer: "Somente na superfície da peça, utilizando indução eletromagnética"
-    },
-    {
         question: "Qual é o processo de recozimento e seu objetivo?",
-        answer: "é o aquecimento seguido de resfriamento lento, para melhorar a ductilidade, aliviar tensões internas e refinar a estrutura do grão"
+        answer: "é o aquecimento seguido de resfriamento lento, para melhorar a ductilidade e aliviar tensões internas"
     },
     {
-        question: "O que é nitretação e qual sua vantagem?",
-        answer: "Introdução de nitrogênio na superfície do aço a temperaturas de 500 a 570°C, produzindo menor distorção e menor tendência a causar trincas"
+        question: "O que é nitretação?",
+        answer: "Introdução de nitrogênio na superfície do aço"
     },
     {
-        question: "Qual é o processo de carbonitretação e sua aplicação?",
-        answer: "Introdução de carbono e nitrogênio na superfície do aço, utilizado para peças pequenas que requerem resistência à fadiga e dureza superficial elevadas"
+        question: "o que é o processo de carbonitretação?",
+        answer: "Introdução de carbono e nitrogênio na superfície do aço"
     },
     {
-        question: "Quais são as aplicações típicas do aço tratado termicamente em engenharia?",
-        answer: "Lâminas e bordas cortantes de tratores, dentes de escavadeiras, pistões hidráulicos e pinos"
+        question: "Cite 3 aplicações práticas para a liga metálica ferrosa?",
+        answer: "Chassis, implementos de equipamentos e fabricações de ferramentas"
+    },
+    {
+        question: "Cite 3 aplicações práticas para a liga metálica não ferrosa?",
+        answer: "Bomba hidráulica, munições e buchas"
+    },
+    {
+        question: "Conceitue Tratamento Térmico?",
+        answer: "é o conjunto de operações de aquecimento e resfriamento a que são submetidos os materiais metálicos, sob condições controladas de temperatura, tempo, atmosfera e velocidade de esfriamento."
     },
 
 ];
