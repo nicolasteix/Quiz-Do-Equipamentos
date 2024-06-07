@@ -1,7 +1,7 @@
 const flashcards = [
     {
         question:
-          "<img src='../imagens/tabela mcc.png' alt='tabela mcc.png'<br><br> <p>complete os dados da tabela mcc</p>",
+          "<img src='../imagens/tabela mcc.png' alt='tabela mcc.png'> <br><br> <p>complete os dados da tabela mcc</p>",
         answer: "Função, Preservar a Função, Obrigatório e sistematica e consequencia das falhas",
       },
     {
