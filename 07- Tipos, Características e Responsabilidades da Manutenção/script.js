@@ -21,8 +21,12 @@ const flashcards = [
         answer: "Redução de custos, aumento da produtividade e vida útil dos equipamentos, redução de acidentes e impactos ambientais."
     },
     {
+        question: "O que é manutenção corretiva?",
+        answer: "É manutenção que tem por objetivo à reparação ou recuperação do equipamento danificado para repô-lo em condições de uso."
+    },
+    {
         question: "O que é manutenção preditiva?",
-        answer: "Manutenção que monitora os equipamentos em operação para prever falhas e realizar intervenções antes que ocorram"
+        answer: "É uma manutenção que prediz o tempo de vida útil dos componentes de máquinas e equipamentos."
     },
     {
         question: "Quais são os métodos de inspeção preditivos mais comuns?",
@@ -55,7 +59,7 @@ const flashcards = [
     },
     {
         question: "Descreva os métodos de inspeção preditivos usados na manutenção preditiva.",
-        answer: "Inspeções sensitivas e Uso de equipamentos especializados para identificar falhas não perceptíveis pelos sentidos humanos."
+        answer: "Inspeções sensitivas e Uso de equipamentos especializados para identificar falhas não perceptíveis pelos sentidos humanos"
     },
     {
         question: "Quais são os principais objetivos de um plano de manutenção preventiva?",
@@ -69,6 +73,18 @@ const flashcards = [
     {
         question: "Quais são as vantagens e desvantagens da manutenção preventiva por tempo?",
         answer: "garantia das funções do equipamento durante a produção, melhor ritmo de trabalho e menores chances de erros. As desvantagens incluem a possibilidade de substituição de componentes ainda em condições de uso e a ocorrência de falhas entre os períodos planejados"
+    },
+    {
+        question: "O que é MCC?",
+        answer: "É o processo usado para determinar os requisitos de manutenção de qualquer item fisico no seu contexto operacional"
+    },
+    {
+        question: "O que é a manutenção corretiva planejada?",
+        answer: "é a correção de pequenas falhas, que reduz o desempenho esperado, por decisão técnica, baseada em acompanhamento preditivo."
+    },
+    {
+        question: "Qual a diferença entre a MCC e a Manutenção Tradicional?",
+        answer: "A manutenção tradicional é focada no equipamento e a MCC é focada na função"
     },
 ];
 // Função para embaralhar um array
