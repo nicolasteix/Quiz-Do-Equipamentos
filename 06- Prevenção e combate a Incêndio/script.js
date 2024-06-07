@@ -28,25 +28,8 @@ const flashcards = [
         answer: "CO2 (Dióxido de Carbono) ou Pó Químico (Bicarbonato de Sódio)"
     },
     {
-        question: "O que caracteriza a prevenção?",
-        answer: "é o somatório de medidas que visam Impedir o aparecimento de um princípio de incêndio, Dificultar sua propagação, Detectá-lo o mais rapido possível e Facilitar o seu combate, ainda na fase inicial"
-    },
-    {
         question: "Quais são os dois tipos de prevenção contra incêndios?",
         answer: "Prevenção Construtural e Prevenção Operacional"
-    },
-    {
-        question: "O que é Prevenção Construtural?",
-        answer: "É relacionada com a aplicação da legislação e das medidas preventivas na CONSTRUÇAO"
-    
-    },
-    {
-        question: "O que é Prevenção Operacional?",
-        answer: "É relacionada com a aplicação das legislações, normas e instruções relacionadas ao assunto"
-    },
-    {
-        question: "Por que os incêndios normalmente ocorrem?",
-        answer: "Devido a falhas na prevenção e/ou descuido humano"
     },
 ];
 // Função para embaralhar um array
