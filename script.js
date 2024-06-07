@@ -25,11 +25,11 @@ const flashcards = [
     },
     {
         question: "Quais são as principais atribuições do chefe de oficina?",
-        answer: "Fazer discussões diárias de segurança e reunião de segurança, Reprimir as práticas inseguras, Investigar os acidentes, as causas e aplicar as medidas corretivas"
+        answer: "Fazer discussões de segurança diárias e reuniões de segurança, Reprimir pratricas inseguras, Investigar acidentes, causas e aplicar medidas corretivas, Fazer com que as medidas de segurança sejam incorporadas na rotina de trabalho, Assegurar-se de que seus subordinados tenham conhecimento das medidas de segurança, Identificar riscos reais e potenciais e tomar precauções"
     },
     {
         question: "Quais condições propiciam o acidente no local de trabalho?",
-        answer: "Luminosidade Local Tempo Equipamento Homem"
+        answer: "Luminosidade, Local, Tempo, Equipamento e Homem"
     },
     {
         question: "Dê um exemplo de como Atentar para as Condições e Emprego do Local.",
@@ -51,18 +51,23 @@ const flashcards = [
         question: "O que deve ser mantido disponível na máquina para o operador?",
         answer: "O manual do operador"
     },
+    
     {
-        question: "O que deve ser amplamente divulgado na oficina?",
-        answer: "O Plano de Prevenção de Acidentes, Plano de Segurança e o Plano de Combate a Incêndio"
-    },
-    {
-        question: "Como avaliar o grau de segurança de uma oficina?",
-        answer: "Observando condições ambientais, infraestrutura, equipamentos e ferramentas, conforto e segurança"
-    },
-    {
-        question: "Quais fatores devem ser considerados na avaliação de segurança?",
-        answer: "Excesso de calor ou frio, produtos químicos danosos, tipo da construção, condições dos equipamentos, máquinas e ferramentas, resíduos sólidos, dispositivos de segurança, iluminação, pavimento, revestimento, ventilação e conforto"
+        question: "Quais os principais riscos mecânicos?",
+        answer: "Arranjo fisico deficiente, maquinario e equipamentos sem proteção, ferramentas inapropriadas ou com problema, eletrecidade, risco de queda, incendio ou explosão, incendio ou explosao, locais inadequados de armazenamento e armazenamento inadequado dos materiais"
     }
+    {
+        question: "O que é incidente de trabalho?",
+        answer: "é o evento indesejável que poderia causar uma perda de vida ou material."
+    },
+    {
+        question: "O que é acidente de trabalho?",
+        answer: "é toda ocorrência não programada, estranha ao andamento normal do trabalho, que causa danos físicos, funcionais, materiais, econômicos à oficina ou ao meio ambiente"
+    },
+    {
+        question: "Quais são os principais pontos que devem ser observados pelo chefe da oficina de forma a diminuir a incidência dos riscos mecânicos?",
+        answer: "Arranjo físico da oficina, iluminação adequada, instalação correta do sistema elétrico, armazenamento adequado no estoque de materiais, ferramental adequado, aquisição distribuição e fiscalização do uso de epi"
+    },
 ];
 // Função para embaralhar um array
 function shuffleArray(array) {
