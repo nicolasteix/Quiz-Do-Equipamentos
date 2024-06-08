@@ -1,72 +1,72 @@
 const flashcards = [
     {
         question: "Quais são os principais objetivos de segurança nas oficinas das OM de Eng?",
-        answer: "Eliminar Danos Pessoais, à Propriedade, ao Material e ao Meio ambiente"
+        answer: "Eliminar Danos Pessoais, à Propriedade, ao Material e ao Meio ambiente",
     },
     {
         question: "Qual as regras básicas de segurança na oficina?",
-        answer: "Atentar para as Condições e Emprego do local, do Material, Utilização das Máquinas e Cuidados e Ação de pessoal"
+        answer: "Atentar para as Condições e Emprego do local, do Material, Utilização das Máquinas e Cuidados e Ação de pessoal",
     },
     {
         question: "Qual a primeira regra básica de segurança na oficina?",
-        answer: "Atentar para as condições e emprego do local"
+        answer: "Atentar para as condições e emprego do local",
     },
     {
         question: "Qual a segunda regra básica de segurança na oficina?",
-        answer: "Atentar para as condições e emprego do material"
+        answer: "Atentar para as condições e emprego do material",
     },
     {
         question: "Qual a terceira regra básica de segurança na oficina?",
-        answer: "Atentar para a utilização das máquinas"
+        answer: "Atentar para a utilização das máquinas",
     },
     {
         question: "Qual a quarta regra básica de segurança na oficina?",
-        answer: "Atentar para os cuidados e ação de pessoal"
+        answer: "Atentar para os cuidados e ação de pessoal",
     },
     {
         question: "Quais são as principais atribuições do chefe de oficina?",
-        answer: "Fazer discussões de segurança diárias e reuniões de segurança, Reprimir pratricas inseguras, Investigar acidentes, causas e aplicar medidas corretivas, Fazer com que as medidas de segurança sejam incorporadas na rotina de trabalho, Assegurar-se de que seus subordinados tenham conhecimento das medidas de segurança, Identificar riscos reais e potenciais e tomar precauções"
+        answer: "Fazer discussões de segurança diárias e reuniões de segurança, Reprimir pratricas inseguras, Investigar acidentes, causas e aplicar medidas corretivas, Fazer com que as medidas de segurança sejam incorporadas na rotina de trabalho, Assegurar-se de que seus subordinados tenham conhecimento das medidas de segurança, Identificar riscos reais e potenciais e tomar precauções",
     },
     {
         question: "Quais condições propiciam o acidente no local de trabalho?",
-        answer: "Luminosidade, Local, Tempo, Equipamento e Homem"
+        answer: "Luminosidade, Local, Tempo, Equipamento e Homem",
     },
     {
         question: "Dê um exemplo de como Atentar para as Condições e Emprego do Local.",
-        answer: "Manter pisos livres de óleo e graxa Assegurar iluminação adequada Disponibilizar bancadas e cavaletes para desmontar peças"
+        answer: "Manter pisos livres de óleo e graxa Assegurar iluminação adequada Disponibilizar bancadas e cavaletes para desmontar peças",
     },
     {
         question: "Dê um exemplo de como Atentar para as Condições e Emprego do Material.",
-        answer: "Utilizar ferramentas corretamente, Manter ferramentas limpas, Guardar ferramentas no local correto"
+        answer: "Utilizar ferramentas corretamente, Manter ferramentas limpas, Guardar ferramentas no local correto",
     },
     {
         question: "Dê um exemplo de como Atentar para a Utilização Das Máquinas.",
-        answer: "Manter máquinas ajustadas e bem manutenidas, Respeitar sinais de alerta e segurança e Usar EPI adequado"
+        answer: "Manter máquinas ajustadas e bem manutenidas, Respeitar sinais de alerta e segurança e Usar EPI adequado",
     },
     {
         question: "Dê um exemplo de como Atentar para os Cuidados e Ações de Pessoal.",
-        answer: "Cobrar o uso de EPI e Divulgar planos de prevenção de acidentes, segurança e combate a incêndio"
+        answer: "Cobrar o uso de EPI e Divulgar planos de prevenção de acidentes, segurança e combate a incêndio",
     },
     {
         question: "O que deve ser mantido disponível na máquina para o operador?",
-        answer: "O manual do operador"
+        answer: "O manual do operador",
     },
     
     {
         question: "Quais os principais riscos mecânicos?",
-        answer: "Arranjo fisico deficiente, maquinario e equipamentos sem proteção, ferramentas inapropriadas ou com problema, eletrecidade, risco de queda, incendio ou explosão, incendio ou explosao, locais inadequados de armazenamento e armazenamento inadequado dos materiais"
-    }
+        answer: "Arranjo fisico deficiente, maquinario e equipamentos sem proteção, ferramentas inapropriadas ou com problema, eletrecidade, risco de queda, incendio ou explosão, incendio ou explosao, locais inadequados de armazenamento e armazenamento inadequado dos materiais",
+    },
     {
         question: "O que é incidente de trabalho?",
-        answer: "é o evento indesejável que poderia causar uma perda de vida ou material."
+        answer: "é o evento indesejável que poderia causar uma perda de vida ou material.",
     },
     {
         question: "O que é acidente de trabalho?",
-        answer: "é toda ocorrência não programada, estranha ao andamento normal do trabalho, que causa danos físicos, funcionais, materiais, econômicos à oficina ou ao meio ambiente"
+        answer: "é toda ocorrência não programada, estranha ao andamento normal do trabalho, que causa danos físicos, funcionais, materiais, econômicos à oficina ou ao meio ambiente",
     },
     {
         question: "Quais são os principais pontos que devem ser observados pelo chefe da oficina de forma a diminuir a incidência dos riscos mecânicos?",
-        answer: "Arranjo físico da oficina, iluminação adequada, instalação correta do sistema elétrico, armazenamento adequado no estoque de materiais, ferramental adequado, aquisição distribuição e fiscalização do uso de epi"
+        answer: "Arranjo físico da oficina, iluminação adequada, instalação correta do sistema elétrico, armazenamento adequado no estoque de materiais, ferramental adequado, aquisição distribuição e fiscalização do uso de epi",
     },
 ];
 // Função para embaralhar um array
