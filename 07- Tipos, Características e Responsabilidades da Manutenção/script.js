@@ -60,12 +60,7 @@ const flashcards = [
     {
         question: "Descreva os métodos de inspeção preditivos usados na manutenção preditiva.",
         answer: "Inspeções sensitivas e Uso de equipamentos especializados para identificar falhas não perceptíveis pelos sentidos humanos"
-    },
-    {
-        question: "Quais são os principais objetivos de um plano de manutenção preventiva?",
-        answer: "Planejar processos de execução, Prever falhas e resolvê-las, Conferir resultados e promover a melhoria contínua de processos, Contribuir para o entendimento de como surgem problemas e como podem ser solucionados, focando na causa, não nas consequências."
-    },
-   
+    },   
     {
         question: "Explique a diferença entre manutenção corretiva planejada e emergencial.",
         answer: "A manutenção corretiva planejada é realizada para corrigir desempenho menor que o esperado, com base em acompanhamento preditivo, a manutenção corretiva emergencial é a correção de falhas que ocorrem de maneira inesperada"
